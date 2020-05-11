@@ -1,0 +1,24 @@
+.intro__text_b {
+	width: 383px;
+	height: 93px;
+	left: 228px;
+	top: 35px;
+
+	font-family: Inter-Black, sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 13px;
+	line-height: 20px;
+
+	color: #FFFFFF;
+}
+
+.intro__text {
+	font-family: Inter, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 13px;
+	line-height: 20px;
+
+	color: #FFFFFF;
+}

@@ -1,0 +1,6 @@
+.additional__container {
+	display: flex;
+	justify-content: space-between;
+	width: 1184px;
+	top: 72px;
+}

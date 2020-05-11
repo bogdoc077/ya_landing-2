@@ -1,0 +1,18 @@
+@import url('../places/__place/places__place.css');
+@import url('../places/__place/__one-table/places__one-table.css');
+@import url('../places/__place/__one-table/__title/places__title.css');
+@import url('../places/__place/__one-table/__image/places__image.css');
+@import url('../places/__place/__two-table/places__two-table.css');
+@import url('../places/__place/__two-table/__paragraph/places__paragraph.css');
+@import url('../places/__place/__two-table/__website/places__website.css');
+@import url('../places/__place/__two-table/__website/__url/places__url.css');
+@import url('../places/__place/__two-table/__website/__url-heading/places__url-heading.css');
+
+.places {
+	position: relative;
+    max-width: 984px;
+    width: 100%;
+    top: 92px;
+    margin-left: auto;
+    margin-right: auto;
+}
