@@ -1,0 +1,13 @@
+@import url('../additional/__container/additional__container.css');
+@import url('../additional/__item/additional__item.css');
+@import url('../additional/__item/__item-bg/additional__item-bg.css');
+@import url('../additional/__item/__heading/additional__heading.css');
+@import url('../additional/__item/__text/additional__text.css');
+
+.additional {
+	position: relative;
+	width: 1184px;
+	top: 102px;
+	margin-right: auto;
+	margin-left: auto;
+}

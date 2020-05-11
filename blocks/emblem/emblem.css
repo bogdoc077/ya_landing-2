@@ -1,0 +1,14 @@
+@import url('../emblem/__title/emblem__title.css');
+@import url('../emblem/__item/emblem__item.css');
+@import url('../emblem/__item/__city/emblem__city.css');
+@import url('../emblem/__item/__image/emblem__image.css');
+
+.emblem {
+	position: relative;
+    display: flex;
+    justify-content: space-between;
+    width: 1184px;
+    margin-top: 82px;
+    margin-left: auto;
+    margin-right: auto;
+}

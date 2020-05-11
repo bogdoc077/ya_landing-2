@@ -1,0 +1,11 @@
+.cover-bg {
+	position: absolute;
+    background: #2A2C2F;
+    opacity: 0.3;
+    max-width: 1184px;
+    width: 100%;
+}
+
+.cover-bg img {
+	width: 100%;
+}

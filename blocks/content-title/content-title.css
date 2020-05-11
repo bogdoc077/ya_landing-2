@@ -1,0 +1,16 @@
+.content-title {
+	max-width: 800px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 75px;
+
+	font-family: Inter-Black, sans-serif;
+	font-style: normal;
+	font-weight: 900;
+	font-size: 72px;
+	line-height: 78px;
+	text-align: center;
+
+	color: #FFFFFF;
+}

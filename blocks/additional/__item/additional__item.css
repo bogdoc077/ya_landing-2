@@ -1,0 +1,11 @@
+.additional__item {
+	position: relative;
+    display: flex;
+    justify-content: center;
+    opacity: 1.0;
+    transition: opacity 1s linear;
+}
+
+.additional__item:hover {
+    opacity: 0.5;
+}
