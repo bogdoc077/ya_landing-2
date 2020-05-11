@@ -1,0 +1,17 @@
+.barentsburg__link {
+	position: relative;
+    width: 282px;
+    float: left;
+}
+
+.barentsburg__link a {
+	position: absolute;
+    width: 282px;
+    font-family: Inter-Regular, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    text-decoration-line: underline;
+    color: #FFFFFF;
+}

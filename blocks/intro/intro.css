@@ -1,0 +1,16 @@
+@import url('../intro/__title/intro__title.css');
+@import url('../intro/__subtitle/intro__subtitle.css');
+@import url('../intro/__content-row/intro__content-row.css');
+@import url('../intro/__content-row/__sub-text/intro__sub-text.css');
+@import url('../intro/__content-row/__sub-text-author/intro__sub-text-author.css');
+@import url('../intro/__content-row/__span/intro__span.css');
+@import url('../intro/__text/intro__text.css');
+
+.intro {
+	max-width: 984px;
+	width: 100%;
+	left: 228px;
+	top: 80px;
+	margin-right: auto;
+	margin-left: auto;
+}

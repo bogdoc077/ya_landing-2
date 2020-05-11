@@ -1,0 +1,12 @@
+.barentsburg__text {
+	position: relative;
+    width: 380px;
+    margin-right: 120px;
+    float: left;
+    font-family: Inter-Regular, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 30px;
+    color: #FFFFFF;
+}

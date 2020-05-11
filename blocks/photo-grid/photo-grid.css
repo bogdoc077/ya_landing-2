@@ -1,0 +1,11 @@
+@import url('../photo-grid/__table/photo-grid__table.css');
+@import url('../photo-grid/__table/__item/photo-grid__item.css');
+
+.photo-grid {
+	position: relative;
+	max-width: 1184px;
+	width: 100%;
+	top: 50px;
+	margin-right: auto;
+    margin-left: auto;
+}

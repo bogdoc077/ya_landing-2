@@ -1,0 +1,8 @@
+.places__place {
+	display: flex;
+	justify-content: space-between;
+}
+
+.places-margin {
+	margin-top: 72px;
+}

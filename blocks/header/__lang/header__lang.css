@@ -1,0 +1,28 @@
+.header__lang a {
+	color: #FFFFFF;
+}
+
+.header__lang li {
+	list-style-type: none;
+	display: inline;
+	width: 30px;
+	height: 23px;
+}
+
+.header__lang_active {
+	font-family: Inter-Regular, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 23px;
+	text-decoration-line: underline;
+	margin-right: 18px;
+}
+
+.header__lang_noactive {
+	font-family: Inter-Regular, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 23px;
+}

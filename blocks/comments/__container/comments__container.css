@@ -1,0 +1,8 @@
+.comments__container {
+	position: relative;
+	display: flex;
+	flex-wrap: wrap;
+    max-width: 1184px;
+    width: 100%;
+    top: 72px;
+}

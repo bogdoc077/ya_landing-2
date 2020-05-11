@@ -1,0 +1,14 @@
+@import url('../comments/__container/comments__container.css');
+@import url('../comments/__container/comment/comment.css');
+@import url('../comments/__container/comment/__quote/comment__quote.css');
+@import url('../comments/__container/comment/__author/comment__author.css');
+@import url('../comments/__container/comment/__image/comment__image.css');
+
+.comments {
+	position: relative;
+	max-width: 1184px;
+	width: 100%;
+	top: 102px;
+	margin-right: auto;
+	margin-left: auto;
+}

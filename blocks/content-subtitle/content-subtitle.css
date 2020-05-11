@@ -1,0 +1,16 @@
+.content-subtitle {
+	max-width: 640px;
+	width: 100%;
+	top: 48px;
+	margin-right: auto;
+	margin-left: auto;
+
+	font-family: Inter-Regular, sans-serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	line-height: 35px;
+	text-align: center;
+
+	color: #FFFFFF;
+}

@@ -1,0 +1,6 @@
+.intro__content-row {
+	display: flex;
+    justify-content: space-between;
+    min-height: 154px;
+    margin: auto;
+}
